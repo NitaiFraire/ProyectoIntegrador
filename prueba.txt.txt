@@ -1,0 +1,19 @@
+// prueba//
+
+Program @Num
+
+{
+  
+    if(var=1);
+     
+     then 1;
+   
+    else
+     
+     then 0;
+    
+   #return
+
+}
+
+end
